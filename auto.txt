@@ -1,0 +1,11 @@
+targa - PRIMARY_KEY - VARCHAR(10)
+modello - TEXT
+prezzo - FLOAT(8,2) - NOTNULL
+chilometri - MEDIUMINT
+carburante - VARCHAR(200)
+immatricolazione - DATE
+proprietari precedenti - TINYINT
+cambio - VARCHAR(11)
+posti - TINYINT
+porte - TINYINT
+potenza - VARCHAR(200)
